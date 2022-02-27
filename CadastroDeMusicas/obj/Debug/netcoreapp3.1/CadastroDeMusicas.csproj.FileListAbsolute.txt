@@ -1,0 +1,14 @@
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\bin\Debug\netcoreapp3.1\CadastroDeMusicas.exe
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\bin\Debug\netcoreapp3.1\CadastroDeMusicas.deps.json
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\bin\Debug\netcoreapp3.1\CadastroDeMusicas.runtimeconfig.json
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\bin\Debug\netcoreapp3.1\CadastroDeMusicas.runtimeconfig.dev.json
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\bin\Debug\netcoreapp3.1\CadastroDeMusicas.dll
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\bin\Debug\netcoreapp3.1\CadastroDeMusicas.pdb
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\obj\Debug\netcoreapp3.1\CadastroDeMusicas.csproj.AssemblyReference.cache
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\obj\Debug\netcoreapp3.1\CadastroDeMusicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\obj\Debug\netcoreapp3.1\CadastroDeMusicas.AssemblyInfoInputs.cache
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\obj\Debug\netcoreapp3.1\CadastroDeMusicas.AssemblyInfo.cs
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\obj\Debug\netcoreapp3.1\CadastroDeMusicas.csproj.CoreCompileInputs.cache
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\obj\Debug\netcoreapp3.1\CadastroDeMusicas.dll
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\obj\Debug\netcoreapp3.1\CadastroDeMusicas.pdb
+C:\git\CadastroDeMusicas\src\CadastroDeMusicas\obj\Debug\netcoreapp3.1\CadastroDeMusicas.genruntimeconfig.cache
